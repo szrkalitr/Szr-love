@@ -22,4 +22,10 @@ pip install httpx colorama
 git clone https://github.com/szrkalitr/Szr-love
 cd Szr-love
 python Bm.py
-'''
+```
+#Not
+Şimdilik sadece birkaç API eklenmiştir, yakın zamanda API sayısı artırılacaktır. Bu süreçte sms.py dosyasına kendi API'lerinizi asenkron (async) yapıyla uyumlu şekilde ekleyerek projeyi genişletebilirsiniz.
+#Uyarı 
+​Bu araç sadece eğitim ve test amaçlı geliştirilmiştir. Kullanımdan doğacak tüm sorumluluk kullanıcıya aittir.
+​Geliştirici: SZR-KALI
+Sürüm: 0.1
