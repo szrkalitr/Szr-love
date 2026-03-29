@@ -1,4 +1,4 @@
-#Szr-love
+# Szr-love
 # 🚀 Asenkron & Paralel SMS Gönderici (v0.1)
 
 Bu proje, Python'un **asenkron (`asyncio`)** yapısını kullanarak, birden fazla servis üzerinden yüksek hızda ve paralel bir şekilde doğrulama SMS'i gönderilmesini sağlayan bir CLI aracıdır. **SZR-KALI** tarafından asenkron mimariyle yeniden tasarlanmıştır.
@@ -23,9 +23,9 @@ git clone https://github.com/szrkalitr/Szr-love
 cd Szr-love
 python Bm.py
 ```
-#Not
+# Not
 Şimdilik sadece birkaç API eklenmiştir, yakın zamanda API sayısı artırılacaktır. Bu süreçte sms.py dosyasına kendi API'lerinizi asenkron (async) yapıyla uyumlu şekilde ekleyerek projeyi genişletebilirsiniz.
-#Uyarı 
+# Uyarı 
 ​Bu araç sadece eğitim ve test amaçlı geliştirilmiştir. Kullanımdan doğacak tüm sorumluluk kullanıcıya aittir.
 ​Geliştirici: SZR-KALI
 Sürüm: 0.1
